@@ -101,6 +101,7 @@
 		1883E83026E665EA006FF620 /* Test3 */ = {
 			isa = PBXGroup;
 			children = (
+				1883E86126E668E6006FF620 /* TestViewController.swift */,
 				1883E83126E665EA006FF620 /* AppDelegate.swift */,
 				1883E83326E665EA006FF620 /* SceneDelegate.swift */,
 				1883E83526E665EA006FF620 /* ViewController.swift */,
@@ -108,7 +109,6 @@
 				1883E83A26E665EB006FF620 /* Assets.xcassets */,
 				1883E83C26E665EB006FF620 /* LaunchScreen.storyboard */,
 				1883E83F26E665EB006FF620 /* Info.plist */,
-				1883E86126E668E6006FF620 /* TestViewController.swift */,
 			);
 			path = Test3;
 			sourceTree = "<group>";
