@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1817C5F726E67F5200310BCC /* Test6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1817C5F626E67F5100310BCC /* Test6ViewController.swift */; };
 		1883E83226E665EA006FF620 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1883E83126E665EA006FF620 /* AppDelegate.swift */; };
 		1883E83426E665EA006FF620 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1883E83326E665EA006FF620 /* SceneDelegate.swift */; };
 		1883E83626E665EA006FF620 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1883E83526E665EA006FF620 /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1817C5F626E67F5100310BCC /* Test6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test6ViewController.swift; sourceTree = "<group>"; };
 		1883E82E26E665EA006FF620 /* Test3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1883E83126E665EA006FF620 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1883E83326E665EA006FF620 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 		1883E83026E665EA006FF620 /* Test3 */ = {
 			isa = PBXGroup;
 			children = (
+				1817C5F626E67F5100310BCC /* Test6ViewController.swift */,
 				1883E86126E668E6006FF620 /* TestViewController.swift */,
 				1883E86326E66E58006FF620 /* Test2ViewController.swift */,
 				1883E86526E66EEB006FF620 /* Test3ViewController.swift */,
@@ -276,6 +279,7 @@
 				1883E86A26E67322006FF620 /* Test5ViewController.swift in Sources */,
 				1883E86426E66E58006FF620 /* Test2ViewController.swift in Sources */,
 				1883E83626E665EA006FF620 /* ViewController.swift in Sources */,
+				1817C5F726E67F5200310BCC /* Test6ViewController.swift in Sources */,
 				1883E83226E665EA006FF620 /* AppDelegate.swift in Sources */,
 				1883E86826E67132006FF620 /* Test4ViewController.swift in Sources */,
 				1883E86226E668E6006FF620 /* TestViewController.swift in Sources */,
